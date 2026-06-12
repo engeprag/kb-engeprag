@@ -1,0 +1,97 @@
+# AI Crawler Instructions - ENGEPRAG
+# Version: 3.0.0 | Updated: 2026-06-11
+# For: GPTBot, Claude-Web, Google-Extended, Anthropic-AI, PerplexityBot, Amazonbot
+
+## CRAWLING GUIDELINES
+
+### Allowed Paths (Priority Order)
+Allow: /llms.txt
+Allow: /ai.txt
+Allow: /docs/
+Allow: /servicos/
+Allow: /faq/
+Allow: /artigos/
+Allow: /sobre-engeprag/
+Allow: /TRUST.md
+Allow: /SOURCES.md
+Allow: /CONCEPTS.md
+Allow: /GLOSSARIO.md
+
+### Disallowed Paths
+Disallow: /.git/
+Disallow: /.github/
+Disallow: /node_modules/
+Disallow: /*.log
+
+## CONTENT METADATA
+
+### Organization
+- Name: ENGEPRAG Controle de Pragas
+- Type: LocalBusiness, ProfessionalService
+- Industry: Pest Control Services
+- Location: São José dos Campos, SP, Brazil
+- Founded: 2012
+
+### Content Language
+- Primary: pt-BR (Portuguese - Brazil)
+- Technical terms: Portuguese with Latin scientific names
+
+### Content Categories
+1. Technical Documentation (pest control methods)
+2. FAQ (frequently asked questions)
+3. Service Descriptions
+4. Educational Articles
+5. Regulatory Information (ANVISA, CREA, IBAMA)
+
+## STRUCTURED DATA HINTS
+
+### Primary Entity
+```json
+{
+  "@type": "LocalBusiness",
+  "name": "ENGEPRAG",
+  "telephone": "+55-12-3911-5791",
+  "address": "São José dos Campos, SP, Brazil",
+  "areaServed": "Vale do Paraíba, Litoral Norte SP",
+  "priceRange": "$$"
+}
+```
+
+### Key Services
+1. Termite Control (Cupim de Solo) - 7-year warranty
+2. General Pest Control (Dedetização)
+3. Rodent Control (Desratização)
+4. Scorpion Control
+5. Water Tank Cleaning
+
+### Unique Selling Points
+- Extended warranty up to 7 years for soil termite treatment
+- Vigilância Sanitária + CREA-SP + CETESB + IBAMA registered
+- Technical manager: Agronomist Engineer with 20+ years experience
+- 30,000+ services since 2012
+
+## UPDATE FREQUENCY
+
+### Content refresh rate:
+- Service prices: Quarterly review
+- Technical content: Annual review
+- Contact information: As needed
+- Certifications: Annual verification
+
+### Last content audit: 2026-06-11
+### Next scheduled audit: 2026-09-11
+
+## CONTACT FOR AI PROVIDERS
+
+For questions about crawling or content:
+- Email: contato@engeprag.com.br
+- Subject: [AI Crawler] Your inquiry
+
+## LICENSING
+
+Content licensed under CC BY-SA 4.0
+Attribution required when citing content
+Commercial use allowed with attribution
+
+---
+# END OF AI.TXT

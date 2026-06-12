@@ -1,0 +1,869 @@
+{
+  "metadata": {
+    "name": "ENGEPRAG Knowledge Base",
+    "version": "1.3.0",
+    "language": "pt-BR",
+    "license": "CC BY-SA 4.0",
+    "last_updated": "2026-06-12",
+    "maintainer": {
+      "organization": "ENGEPRAG",
+      "technical_responsible": "Engenheira Agrônoma Paula Jasper Chemin",
+      "crea_sp": "5063743836",
+      "crea_sp_pj": "1798880",
+      "email": "contato@engeprag.com.br",
+      "website": "https://www.engeprag.com.br"
+    },
+    "certifications": {
+      "vigilancia_sanitaria": "CEVS 354990401-812-000019-1-0",
+      "crea_sp": "1798880",
+      "cetesb": "203984201319",
+      "ibama": "5764249"
+    },
+    "repository": "https://github.com/engeprag/kb-engeprag",
+    "site": "https://kb.engeprag.com.br/",
+    "total_documents": 49
+  },
+  "navigation": {
+    "recommended_order": [
+      "README.md",
+      "TRUST.md",
+      "faq/",
+      "servicos/",
+      "artigos/",
+      "SOURCES.md"
+    ]
+  },
+  "documents": [
+    {
+      "path": "CONCEPTS.md",
+      "url": "https://kb.engeprag.com.br/CONCEPTS/",
+      "title": "Índice de Conceitos - Controle de Pragas Urbanas",
+      "type": "index",
+      "summary": "Mapa hierárquico de conceitos sobre controle de pragas para navegação semântica por LLMs",
+      "tags": [
+        "indice",
+        "conceitos",
+        "navegacao",
+        "rag"
+      ],
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "GLOSSARIO.md",
+      "url": "https://kb.engeprag.com.br/GLOSSARIO/",
+      "title": "Glossário de Termos Técnicos - Controle de Pragas Urbanas",
+      "type": "reference",
+      "summary": "Definições técnicas dos principais termos utilizados no controle integrado de pragas urbanas, incluindo métodos, produtos e procedimentos",
+      "tags": [
+        "glossario",
+        "termos-tecnicos",
+        "controle-de-pragas",
+        "definicoes"
+      ],
+      "last_reviewed": "2025-01"
+    },
+    {
+      "path": "SOURCES.md",
+      "url": "https://kb.engeprag.com.br/SOURCES/",
+      "title": "SOURCES",
+      "type": "reference",
+      "last_reviewed": "2026-06-12"
+    },
+    {
+      "path": "TRUST.md",
+      "url": "https://kb.engeprag.com.br/TRUST/",
+      "title": "TRUST",
+      "type": "policy",
+      "last_reviewed": "2026-06-12"
+    },
+    {
+      "path": "ai-guide.md",
+      "url": "https://kb.engeprag.com.br/ai-guide/",
+      "title": "ai-guide",
+      "type": "ai-guide",
+      "last_reviewed": "2026-06-12"
+    },
+    {
+      "path": "sobre-engeprag/areas-atuacao.md",
+      "url": "https://kb.engeprag.com.br/sobre-engeprag/areas-atuacao/",
+      "title": "ENGEPRAG - Áreas de Atuação",
+      "type": "institutional",
+      "category": "Sobre a ENGEPRAG",
+      "summary": "Região atendida pela ENGEPRAG: Vale do Paraíba, Litoral Norte de SP e Sul Fluminense, com sede em São José dos Campos.",
+      "tags": [
+        "engeprag",
+        "areas de atuacao",
+        "regiao atendida",
+        "vale do paraiba",
+        "sao jose dos campos"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2026-06-11"
+    },
+    {
+      "path": "sobre-engeprag/certificacoes-habilitacoes.md",
+      "url": "https://kb.engeprag.com.br/sobre-engeprag/certificacoes-habilitacoes/",
+      "title": "ENGEPRAG - Certificações e Habilitações",
+      "type": "institutional",
+      "category": "Sobre a ENGEPRAG",
+      "summary": "Registros e certificações oficiais da ENGEPRAG: Vigilância Sanitária, CREA-SP, MAPA, SAA, CETESB, IBAMA e normas regulamentadoras NR-33 e NR-35.",
+      "tags": [
+        "engeprag",
+        "certificacoes",
+        "registros",
+        "anvisa",
+        "crea",
+        "ibama",
+        "cetesb",
+        "mapa"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2026-06-11"
+    },
+    {
+      "path": "sobre-engeprag/equipe-responsavel-tecnico.md",
+      "url": "https://kb.engeprag.com.br/sobre-engeprag/equipe-responsavel-tecnico/",
+      "title": "ENGEPRAG - Equipe e Responsável Técnica",
+      "type": "institutional",
+      "category": "Sobre a ENGEPRAG",
+      "summary": "Conheça a responsável técnica da ENGEPRAG, Engenheira Agrônoma Paula Jasper Chemin (CREA-SP), e a estrutura técnica da empresa.",
+      "tags": [
+        "engeprag",
+        "equipe",
+        "responsavel tecnico",
+        "paula jasper chemin",
+        "engenheira agronoma"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2026-06-11"
+    },
+    {
+      "path": "sobre-engeprag/historia-missao-valores.md",
+      "url": "https://kb.engeprag.com.br/sobre-engeprag/historia-missao-valores/",
+      "title": "ENGEPRAG - História, Missão e Valores",
+      "type": "institutional",
+      "category": "Sobre a ENGEPRAG",
+      "summary": "Conheça a história, missão, valores e diferenciais da ENGEPRAG, empresa especializada em controle integrado de pragas urbanas desde 2012",
+      "tags": [
+        "engeprag",
+        "historia",
+        "missao",
+        "valores",
+        "sobre"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-15"
+    },
+    {
+      "path": "sobre-engeprag/index.md",
+      "url": "https://kb.engeprag.com.br/sobre-engeprag/",
+      "title": "index",
+      "type": "institutional",
+      "last_reviewed": "2026-06-12"
+    },
+    {
+      "path": "servicos/cip-controle-integrado.md",
+      "url": "https://kb.engeprag.com.br/servicos/cip-controle-integrado/",
+      "title": "CIP - Controle Integrado de Pragas",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Contrato anual de Controle Integrado de Pragas (CIP) com visitas regulares, garantia permanente e monitoramento contínuo.",
+      "tags": [
+        "cip",
+        "controle-integrado",
+        "contrato-anual",
+        "prevencao",
+        "monitoramento"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/cuidados-especiais.md",
+      "url": "https://kb.engeprag.com.br/servicos/cuidados-especiais/",
+      "title": "Cuidados Especiais - Crianças, Idosos, Pets e PCDs",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Orientações e cuidados especiais durante tratamentos de controle de pragas para grupos vulneráveis: crianças, idosos, animais de estimação e pessoas com limitações.",
+      "tags": [
+        "cuidados",
+        "criancas",
+        "idosos",
+        "pets",
+        "animais",
+        "seguranca",
+        "pcd"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/desalojamento-pombos-morcegos.md",
+      "url": "https://kb.engeprag.com.br/servicos/desalojamento-pombos-morcegos/",
+      "title": "Desalojamento de Pombos e Morcegos",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de desalojamento humanitário de pombos e morcegos. Métodos não letais conforme legislação ambiental.",
+      "tags": [
+        "pombos",
+        "morcegos",
+        "desalojamento",
+        "aves",
+        "mamiferos"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/descupinizacao.md",
+      "url": "https://kb.engeprag.com.br/servicos/descupinizacao/",
+      "title": "Descupinização - Controle de Cupins de Solo e Madeira Seca",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de descupinização para eliminação de cupins de solo e madeira seca. Garantia de até 7 anos.",
+      "tags": [
+        "descupinizacao",
+        "cupins",
+        "cupim-de-solo",
+        "cupim-madeira-seca"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/desinfeccao.md",
+      "url": "https://kb.engeprag.com.br/servicos/desinfeccao/",
+      "title": "Desinfecção de Ambientes e Veículos",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de desinfecção para eliminação de vírus, bactérias e fungos em ambientes e veículos.",
+      "tags": [
+        "desinfeccao",
+        "virus",
+        "bacterias",
+        "fungos",
+        "covid",
+        "higienizacao"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/desinsetizacao.md",
+      "url": "https://kb.engeprag.com.br/servicos/desinsetizacao/",
+      "title": "Desinsetização - Controle de Baratas, Formigas e Insetos",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de desinsetização para eliminação de baratas, formigas e outros insetos. Produtos inodoros, seguros e com garantia.",
+      "tags": [
+        "desinsetizacao",
+        "baratas",
+        "formigas",
+        "insetos",
+        "dedetizacao"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-15"
+    },
+    {
+      "path": "servicos/desratizacao.md",
+      "url": "https://kb.engeprag.com.br/servicos/desratizacao/",
+      "title": "Desratização - Controle Profissional de Ratos e Roedores",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de desratização para eliminação segura de ratos, camundongos e ratazanas. Proteção contra leptospirose e outras doenças.",
+      "tags": [
+        "desratizacao",
+        "ratos",
+        "roedores",
+        "camundongos",
+        "ratazanas",
+        "leptospirose"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-15"
+    },
+    {
+      "path": "servicos/escorpioes-aranhas.md",
+      "url": "https://kb.engeprag.com.br/servicos/escorpioes-aranhas/",
+      "title": "Controle de Escorpiões e Aranhas",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de controle de escorpiões e aranhas perigosas. Tratamento preventivo e emergencial.",
+      "tags": [
+        "escorpioes",
+        "aranhas",
+        "escorpiao-amarelo",
+        "prevencao"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/fitossanitarios.md",
+      "url": "https://kb.engeprag.com.br/servicos/fitossanitarios/",
+      "title": "Tratamentos Fitossanitários - Fumigação e Tratamento Térmico HT",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviços de tratamentos fitossanitários para exportação: fumigação de grãos e tratamento térmico HT de embalagens de madeira.",
+      "tags": [
+        "fitossanitario",
+        "fumigacao",
+        "tratamento-termico",
+        "HT",
+        "ISPM15",
+        "exportacao"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/index.md",
+      "url": "https://kb.engeprag.com.br/servicos/",
+      "title": "index",
+      "type": "service",
+      "last_reviewed": "2026-06-12"
+    },
+    {
+      "path": "servicos/limpeza-caixa-dagua.md",
+      "url": "https://kb.engeprag.com.br/servicos/limpeza-caixa-dagua/",
+      "title": "Limpeza e Higienização de Caixa d'Água",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de limpeza e higienização de reservatórios de água. Atende legislação e garante água potável.",
+      "tags": [
+        "caixa-dagua",
+        "limpeza",
+        "higienizacao",
+        "reservatorio",
+        "agua"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/moscas-mosquitos-tracas-carunchos.md",
+      "url": "https://kb.engeprag.com.br/servicos/moscas-mosquitos-tracas-carunchos/",
+      "title": "Controle de Moscas, Mosquitos, Traças e Carunchos",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de controle de moscas, mosquitos (incluindo Aedes aegypti), traças e carunchos.",
+      "tags": [
+        "moscas",
+        "mosquitos",
+        "tracas",
+        "carunchos",
+        "dengue",
+        "aedes"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "servicos/pulgas-carrapatos-percevejos.md",
+      "url": "https://kb.engeprag.com.br/servicos/pulgas-carrapatos-percevejos/",
+      "title": "Controle de Pulgas, Carrapatos e Percevejos",
+      "type": "service",
+      "category": "Serviços",
+      "summary": "Serviço profissional de controle de pulgas, carrapatos e percevejos de cama. Tratamento seguro para ambientes com pets.",
+      "tags": [
+        "pulgas",
+        "carrapatos",
+        "percevejos",
+        "ectoparasitas",
+        "pets"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma (CREA-SP 5063743836)",
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "artigos/alerta-aranhas-e-escorpioes.md",
+      "url": "https://kb.engeprag.com.br/artigos/alerta-aranhas-e-escorpioes/",
+      "title": "Alerta: Aranhas e Escorpiões",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Estratégias avançadas para controle de escorpiões e aranhas em centros urbanos",
+      "tags": [
+        "escorpiões",
+        "aranhas",
+        "controle urbano",
+        "prevenção"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/barata-germanica.md",
+      "url": "https://kb.engeprag.com.br/artigos/barata-germanica/",
+      "title": "Conhecendo o Inimigo: A Barata Germânica (Blattella germanica)",
+      "type": "article",
+      "category": "Blog",
+      "summary": "Guia completo sobre a Barata Germânica: identificação, hábitos, reprodução, riscos à saúde e métodos de controle eficazes",
+      "tags": [
+        "barata-germanica",
+        "blattella-germanica",
+        "baratas",
+        "identificacao",
+        "controle"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/comunicado-cvs-006.md",
+      "url": "https://kb.engeprag.com.br/artigos/comunicado-cvs-006/",
+      "title": "Comunicado CVS 006 de 12 de Janeiro de 2011",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Diretrizes oficiais sobre limpeza e desinfecção de caixas d'água pequenas (até 2 mil litros)",
+      "tags": [
+        "legislação",
+        "CVS",
+        "caixas d'água",
+        "limpeza",
+        "desinfecção",
+        "vigilância sanitária"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/covid-19-desinfeccao.md",
+      "url": "https://kb.engeprag.com.br/artigos/covid-19-desinfeccao/",
+      "title": "COVID-19: Desinfecção e Limpeza de Superfícies e Objetos",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Orientações técnicas sobre desinfecção correta de ambientes, superfícies e objetos para prevenção de contaminação por coronavírus",
+      "tags": [
+        "COVID-19",
+        "desinfecção",
+        "limpeza",
+        "coronavírus",
+        "saneantes",
+        "álcool 70%",
+        "hipoclorito"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/cupim-de-solo-e-cupim-madeira-seca.md",
+      "url": "https://kb.engeprag.com.br/artigos/cupim-de-solo-e-cupim-madeira-seca/",
+      "title": "Cupim de Solo e Cupim de Madeira Seca: Como Tratar",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Guia completo sobre identificação, tratamento e prevenção de cupins de solo (Coptotermes gestroi) e cupins de madeira seca (Cryptotermes brevis)",
+      "tags": [
+        "cupins",
+        "descupinização",
+        "cupim de solo",
+        "cupim de madeira seca",
+        "controle de pragas",
+        "tratamento"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/cupim-de-solo-entenda-mais.md",
+      "url": "https://kb.engeprag.com.br/artigos/cupim-de-solo-entenda-mais/",
+      "title": "Cupim de Solo: Entenda Mais",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Características fascinantes e importantes dos cupins de solo - biologia, comportamento e impacto",
+      "tags": [
+        "cupins",
+        "cupim de solo",
+        "biologia",
+        "descupinização"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/cupim-de-solo-veja-o-que-e.md",
+      "url": "https://kb.engeprag.com.br/artigos/cupim-de-solo-veja-o-que-e/",
+      "title": "Cupim de Solo: Veja o que é e cuidados a serem tomados",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Guia completo sobre cupins de solo subterrâneos - identificação, prevenção e tratamento profissional",
+      "tags": [
+        "cupins",
+        "cupim de solo",
+        "cupim subterrâneo",
+        "descupinização",
+        "prevenção"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/dedetizacao-condominios-residencias.md",
+      "url": "https://kb.engeprag.com.br/artigos/dedetizacao-condominios-residencias/",
+      "title": "Dedetização em Condomínios e Residências: Guia Completo de Cuidados",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Orientações essenciais sobre dedetização em condomínios e residências, incluindo frequência, aspectos legais e procedimentos por tipo de praga",
+      "tags": [
+        "dedetização",
+        "condomínios",
+        "residências",
+        "controle de pragas",
+        "baratas",
+        "cupins",
+        "ratos",
+        "pombas"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/desratizacao-como-funciona.md",
+      "url": "https://kb.engeprag.com.br/artigos/desratizacao-como-funciona/",
+      "title": "Desratização: O que é e como funciona",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Guia completo sobre desratização profissional - processos, produtos e prevenção de roedores",
+      "tags": [
+        "desratização",
+        "roedores",
+        "ratos",
+        "controle de pragas",
+        "saúde pública"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/formigas-comportamento-cuidados.md",
+      "url": "https://kb.engeprag.com.br/artigos/formigas-comportamento-cuidados/",
+      "title": "Formigas: Comportamento e Cuidados Especializados",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Guia completo sobre tipos de formigas, comportamento, fatores de atração e medidas preventivas após dedetização",
+      "tags": [
+        "formigas",
+        "dedetização",
+        "formiga-cortadeira",
+        "formiga-lava-pés",
+        "controle de pragas",
+        "prevenção"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/galinha-dangola-controle-escorpioes.md",
+      "url": "https://kb.engeprag.com.br/artigos/galinha-dangola-controle-escorpioes/",
+      "title": "Galinha D'Angola no Controle de Escorpiões",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Uso de galinha d'angola como controle biológico de escorpiões - possibilidades e limitações",
+      "tags": [
+        "escorpiões",
+        "controle biológico",
+        "galinha d'angola",
+        "prevenção"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/index.md",
+      "url": "https://kb.engeprag.com.br/artigos/",
+      "title": "Índice de Artigos - Base de Conhecimento ENGEPRAG",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Índice temático de todos os artigos sobre controle de pragas urbanas da ENGEPRAG",
+      "tags": [
+        "indice",
+        "artigos",
+        "navegacao",
+        "temas"
+      ],
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "artigos/limpeza-caixas-dagua.md",
+      "url": "https://kb.engeprag.com.br/artigos/limpeza-caixas-dagua/",
+      "title": "Limpeza de Caixas d'Água: Guia Prático Completo",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Guia detalhado sobre como fazer limpeza e desinfecção de caixas d'água conforme orientações do Centro de Vigilância Sanitária",
+      "tags": [
+        "limpeza",
+        "caixas d'água",
+        "desinfecção",
+        "água sanitária",
+        "vigilância sanitária",
+        "saúde"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/prevencao-escorpioes.md",
+      "url": "https://kb.engeprag.com.br/artigos/prevencao-escorpioes/",
+      "title": "Medidas Preventivas Contra Escorpiões - Guia Completo de Segurança",
+      "type": "article",
+      "category": "Blog",
+      "summary": "Guia completo de prevenção contra escorpiões: como evitar acidentes, medidas de segurança, vedação, limpeza e o que fazer em caso de picada",
+      "tags": [
+        "escorpioes",
+        "prevencao",
+        "seguranca",
+        "picada",
+        "escorpiao-amarelo"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/problema-ratos.md",
+      "url": "https://kb.engeprag.com.br/artigos/problema-ratos/",
+      "title": "Tenho Problema com Ratos - Entenda o Que é Desratização",
+      "type": "article",
+      "category": "Blog",
+      "summary": "Guia completo sobre problemas com ratos: identificação, riscos à saúde, doenças transmitidas e quando contratar serviço profissional de desratização",
+      "tags": [
+        "ratos",
+        "desratizacao",
+        "roedores",
+        "leptospirose",
+        "infestacao"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/rdc-622.md",
+      "url": "https://kb.engeprag.com.br/artigos/rdc-622/",
+      "title": "RDC Nº 622 de 9 de Março de 2022 - ANVISA",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Resolução da ANVISA sobre funcionamento de empresas especializadas em controle de vetores e pragas urbanas",
+      "tags": [
+        "legislação",
+        "ANVISA",
+        "RDC 622",
+        "controle de pragas",
+        "empresas especializadas",
+        "boas práticas"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/sobre-engeprag.md",
+      "url": "https://kb.engeprag.com.br/artigos/sobre-engeprag/",
+      "title": "Conheça Mais Sobre Nossa Empresa - ENGEPRAG",
+      "type": "article",
+      "category": "Blog",
+      "summary": "História, valores, equipe e diferenciais da ENGEPRAG - empresa especializada em controle de pragas urbanas desde 2012",
+      "tags": [
+        "engeprag",
+        "empresa",
+        "historia",
+        "valores",
+        "equipe"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/sustentabilidade.md",
+      "url": "https://kb.engeprag.com.br/artigos/sustentabilidade/",
+      "title": "Sustentabilidade e Consciência Ambiental na ENGEPRAG",
+      "type": "article",
+      "category": "Blog",
+      "summary": "Compromisso da ENGEPRAG com práticas sustentáveis, responsabilidade ambiental e minimização da pegada ecológica no controle de pragas",
+      "tags": [
+        "sustentabilidade",
+        "meio-ambiente",
+        "consciencia-ambiental",
+        "responsabilidade",
+        "ecologia"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "artigos/tratamento-fitossanitario-calor.md",
+      "url": "https://kb.engeprag.com.br/artigos/tratamento-fitossanitario-calor/",
+      "title": "Tratamento Fitossanitário à Calor (HT - Tratamento Térmico)",
+      "type": "article",
+      "category": "Artigos",
+      "summary": "Tratamento térmico ecológico para embalagens de madeira: alternativa sustentável à fumigação, conforme NIMF 15/ISPM 15",
+      "tags": [
+        "tratamento térmico",
+        "fitossanitário",
+        "HT",
+        "NIMF 15",
+        "ISPM 15",
+        "exportação",
+        "embalagens madeira",
+        "sustentabilidade"
+      ],
+      "reviewed_by": "Paula Jasper Chemin – Engenheira Agrônoma",
+      "last_reviewed": "2025-01-08"
+    },
+    {
+      "path": "faq/baratas.md",
+      "url": "https://kb.engeprag.com.br/faq/baratas/",
+      "title": "FAQ - Perguntas Frequentes sobre Baratas",
+      "type": "faq",
+      "category": "FAQ",
+      "summary": "Respostas às perguntas mais frequentes sobre baratas: identificação, eliminação, prevenção e tratamento profissional",
+      "tags": [
+        "faq",
+        "baratas",
+        "desinsetizacao",
+        "barata-germanica",
+        "perguntas-frequentes"
+      ],
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "faq/cupins.md",
+      "url": "https://kb.engeprag.com.br/faq/cupins/",
+      "title": "FAQ - Perguntas Frequentes sobre Cupins",
+      "type": "faq",
+      "category": "FAQ",
+      "summary": "Respostas às perguntas mais frequentes sobre cupins de solo e madeira seca: identificação, danos, tratamento e prevenção",
+      "tags": [
+        "faq",
+        "cupins",
+        "descupinizacao",
+        "perguntas-frequentes"
+      ],
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "faq/escorpioes.md",
+      "url": "https://kb.engeprag.com.br/faq/escorpioes/",
+      "title": "FAQ - Perguntas Frequentes sobre Escorpiões",
+      "type": "faq",
+      "category": "FAQ",
+      "summary": "Respostas às perguntas mais frequentes sobre escorpiões: identificação, prevenção, primeiros socorros e tratamento profissional",
+      "tags": [
+        "faq",
+        "escorpioes",
+        "escorpiao-amarelo",
+        "prevencao",
+        "perguntas-frequentes"
+      ],
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "faq/faq-residencial.md",
+      "url": "https://kb.engeprag.com.br/faq/faq-residencial/",
+      "title": "FAQ - Perguntas Frequentes sobre Controle de Pragas Residencial",
+      "type": "faq",
+      "category": "FAQ",
+      "summary": "Respostas às perguntas mais frequentes sobre desinsetização, desratização e controle de pragas em residências",
+      "tags": [
+        "faq",
+        "perguntas-frequentes",
+        "residencial",
+        "duvidas"
+      ],
+      "last_reviewed": "2025-01-15"
+    },
+    {
+      "path": "faq/index.md",
+      "url": "https://kb.engeprag.com.br/faq/",
+      "title": "index",
+      "type": "faq",
+      "last_reviewed": "2026-06-12"
+    },
+    {
+      "path": "faq/roedores.md",
+      "url": "https://kb.engeprag.com.br/faq/roedores/",
+      "title": "FAQ - Perguntas Frequentes sobre Ratos e Roedores",
+      "type": "faq",
+      "category": "FAQ",
+      "summary": "Respostas às perguntas mais frequentes sobre ratos: identificação, riscos à saúde, desratização e prevenção",
+      "tags": [
+        "faq",
+        "ratos",
+        "roedores",
+        "desratizacao",
+        "perguntas-frequentes"
+      ],
+      "last_reviewed": "2025-01-07"
+    },
+    {
+      "path": "normas/index.md",
+      "url": "https://kb.engeprag.com.br/normas/",
+      "title": "Normas e Legislação",
+      "type": "legislation",
+      "category": "Legislação",
+      "summary": "Índice de normas e legislação aplicável ao controle de pragas urbanas",
+      "tags": [
+        "normas",
+        "legislação",
+        "ANVISA",
+        "CVS",
+        "regulamentação"
+      ],
+      "last_reviewed": "2025-01-07"
+    }
+  ],
+  "categories": {
+    "prevention": "Artigos sobre prevenção de pragas",
+    "pest_biology": "Biologia e comportamento de pragas",
+    "pest_control": "Métodos de controle de pragas",
+    "service_explanation": "Explicação de serviços profissionais",
+    "specialized_service": "Serviços especializados",
+    "regulation": "Legislação e normas técnicas",
+    "institutional": "Informações sobre a empresa",
+    "comparison": "Comparação entre tipos de pragas",
+    "alert": "Alertas de segurança",
+    "biological_control": "Controle biológico"
+  },
+  "pests": {
+    "escorpião": {
+      "scientific_name": "Tityus serrulatus (principal)",
+      "danger_level": "high",
+      "emergency": "192 (SAMU)"
+    },
+    "barata": {
+      "scientific_name": "Blattella germanica, Periplaneta americana",
+      "danger_level": "medium",
+      "diseases": [
+        "Salmonella",
+        "E. coli"
+      ]
+    },
+    "roedor": {
+      "scientific_name": "Rattus rattus, Rattus norvegicus, Mus musculus",
+      "danger_level": "high",
+      "diseases": [
+        "Leptospirose",
+        "Hantavírus"
+      ]
+    },
+    "cupim": {
+      "scientific_name": "Coptotermes spp., Cryptotermes spp.",
+      "danger_level": "low",
+      "damage_type": "structural"
+    },
+    "formiga": {
+      "danger_level": "low"
+    },
+    "aranha": {
+      "danger_level": "medium-high"
+    }
+  },
+  "contact": {
+    "phone": "(12) 3911-5791",
+    "whatsapp": "(12) 99222-5458",
+    "email": "contato@engeprag.com.br",
+    "address": "Av. dos Estados, 312 - Vila Maria, São José dos Campos - SP, 12209-450",
+    "hours": {
+      "service": "Segunda a Sexta, 9h às 18h",
+      "scheduling": "Segunda a Domingo (incluindo feriados)"
+    },
+    "coverage": "Vale do Paraíba e região"
+  }
+}

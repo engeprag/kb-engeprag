@@ -1,0 +1,42 @@
+# Arquivos sensiveis - NUNCA commitar
+*.credentials
+*.env
+*.env.*
+.env
+
+# Analises competitivas e estrategicas
+*-ESTRATEGIA-*.md
+*-COMPETITIV*.md
+*-CONCORRENT*.md
+*PRECO*.md
+*CREDENCIAIS*.md
+ANALISE-*.md
+
+# Arquivos de sistema
+.DS_Store
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.pyc
+__pycache__/
+
+# Logs e temporarios
+*.log
+*.tmp
+*.temp
+logs/
+
+# Build do MkDocs (se houver)
+site/
+
+# Node modules (se usar ferramentas JS)
+node_modules/
+
+# Backups locais
+backup*/
+*.bak
+
+# Configs locais de IDE/agente
+.claude/

@@ -1,0 +1,207 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "https://engeprag.com.br",
+  "name": "ENGEPRAG Controle de Pragas",
+  "alternateName": ["ENGEPRAG", "Engenharia no Controle Integrado de Pragas Urbanas"],
+  "description": "Empresa referência em controle de pragas urbanas no Vale do Paraíba, liderada por Engenheira Agrônoma com +20 anos de experiência. Garantias de até 7 anos em cupim de solo.",
+  "url": "https://www.engeprag.com.br",
+  "telephone": "+55-12-3911-5791",
+  "email": "contato@engeprag.com.br",
+  "foundingDate": "2012",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Av. dos Estados, 312 - Vila Maria",
+    "addressLocality": "São José dos Campos",
+    "addressRegion": "SP",
+    "postalCode": "12209-450",
+    "addressCountry": "BR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "-23.2237",
+    "longitude": "-45.9009"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "São José dos Campos"
+    },
+    {
+      "@type": "City",
+      "name": "Jacareí"
+    },
+    {
+      "@type": "City",
+      "name": "Taubaté"
+    },
+    {
+      "@type": "City",
+      "name": "Caçapava"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Vale do Paraíba"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Litoral Norte SP"
+    }
+  ],
+  "employee": {
+    "@type": "Person",
+    "name": "Paula Jasper Chemin",
+    "jobTitle": "Engenheira Agrônoma - Responsável Técnica",
+    "description": "Engenheira Agrônoma com +20 anos de experiência, especialista em tratamento contra cupim de solo, palestrante em associações técnicas reconhecidas pelo CREA",
+    "hasCredential": {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Professional License",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "CREA-SP"
+      },
+      "identifier": "5063743836"
+    }
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "Vigilância Sanitária",
+      "identifier": "CEVS 354990401-812-000019-1-0",
+      "recognizedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "Vigilância Sanitária"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CREA-SP",
+      "identifier": "1798880",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Conselho Regional de Engenharia e Agronomia de São Paulo"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "MAPA",
+      "recognizedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "Ministério da Agricultura, Pecuária e Abastecimento"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "CETESB",
+      "identifier": "203984201319",
+      "recognizedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "Companhia Ambiental do Estado de São Paulo"
+      }
+    },
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "IBAMA",
+      "identifier": "5764249",
+      "recognizedBy": {
+        "@type": "GovernmentOrganization",
+        "name": "Instituto Brasileiro do Meio Ambiente"
+      }
+    }
+  ],
+  "award": "Fonte Técnica Oficial Rede Vanguarda (afiliada Rede Globo)",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Serviços de Controle de Pragas",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Descupinização de Cupim de Solo",
+          "description": "Tratamento contra cupim subterrâneo com barreira química",
+          "termsOfService": "Garantia de até 7 anos"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Descupinização de Cupim de Madeira Seca",
+          "description": "Tratamento localizado em estruturas de madeira",
+          "termsOfService": "Garantia de até 2 anos"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Desinsetização (Dedetização)",
+          "description": "Controle de baratas, formigas e outros insetos. INCLUI tratamento contra aranhas e escorpiões sem custo adicional.",
+          "termsOfService": "Garantia de até 6 meses"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Desratização",
+          "description": "Controle de roedores com iscas em porta-iscas de segurança"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tratamento Fitossanitário MAPA/NIMF-15",
+          "description": "Certificação para embalagens de madeira para exportação, aceita em 180+ países"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Limpeza de Caixa d'Água",
+          "description": "Higienização e desinfecção de reservatórios conforme CVS 006"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "CIP - Controle Integrado de Pragas",
+          "description": "Contrato anual com visitas regulares e garantia permanente"
+        }
+      }
+    ]
+  },
+  "sameAs": [
+    "https://www.google.com/maps/place/ENGEPRAG+-+Controle+de+Pragas+Urbanas",
+    "https://www.instagram.com/engeprag",
+    "https://www.youtube.com/@engeprag",
+    "https://www.linkedin.com/company/engeprag",
+    "https://github.com/engeprag/kb-engeprag"
+  ],
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Anos de Atuação",
+      "value": "13"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Serviços Realizados",
+      "value": "30000+"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Diferencial Exclusivo",
+      "value": "Tratamento contra aracnídeos (aranhas e escorpiões) INCLUSO na desinsetização padrão"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Rastreabilidade",
+      "value": "Fotos geolocalizadas de cada serviço"
+    }
+  ]
+}

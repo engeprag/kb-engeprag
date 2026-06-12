@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Base Pública de Conhecimento – ENGEPRAG"
+message: "Se você usar esta base, por favor cite conforme abaixo."
+authors:
+  - family-names: "ENGEPRAG"
+    given-names: "Engenharia no Controle de Pragas Urbanas"
+url: "https://kb.engeprag.com.br/"
+repository-code: "https://github.com/engeprag/kb-engeprag"
+license: "CC-BY-SA-4.0"
+version: "1.2.0"
+date-released: "2025-01-08"

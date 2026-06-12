@@ -1,0 +1,103 @@
+site_name: Base Pública ENGEPRAG
+site_description: Base pública de conhecimento técnico em Controle de Pragas Urbanas
+site_url: https://kb.engeprag.com.br/
+
+repo_name: engeprag/kb-engeprag
+repo_url: https://github.com/engeprag/kb-engeprag
+
+plugins:
+  - search
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: pt
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+
+extra:
+  social:
+    - icon: fontawesome/brands/whatsapp
+      link: https://wa.me/5512992225458
+    - icon: fontawesome/brands/github
+      link: https://github.com/engeprag
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - tables
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Início: index.md
+  - Índice de Conceitos: CONCEPTS.md
+  - Glossário: GLOSSARIO.md
+  - Fontes e Referências: SOURCES.md
+  - Política de Confiabilidade: TRUST.md
+  - Guia para IA (LLMs): ai-guide.md
+
+  - Artigos Técnicos:
+      - artigos/index.md
+      - Pragas:
+          - Barata Germânica: artigos/barata-germanica.md
+          - Problema com Ratos: artigos/problema-ratos.md
+          - Formigas - Comportamento: artigos/formigas-comportamento-cuidados.md
+          - Alerta Aranhas e Escorpiões: artigos/alerta-aranhas-e-escorpioes.md
+          - Prevenção de Escorpiões: artigos/prevencao-escorpioes.md
+          - Galinha d'Angola no Controle: artigos/galinha-dangola-controle-escorpioes.md
+      - Cupins:
+          - Cupim de Solo - Entenda: artigos/cupim-de-solo-entenda-mais.md
+          - Cupim de Solo - O que é: artigos/cupim-de-solo-veja-o-que-e.md
+          - Cupim de Solo vs Madeira Seca: artigos/cupim-de-solo-e-cupim-madeira-seca.md
+      - Serviços e Procedimentos:
+          - Desratização - Como Funciona: artigos/desratizacao-como-funciona.md
+          - Dedetização em Condomínios: artigos/dedetizacao-condominios-residencias.md
+          - Limpeza de Caixas d'Água: artigos/limpeza-caixas-dagua.md
+          - Desinfecção COVID-19: artigos/covid-19-desinfeccao.md
+          - Tratamento Fitossanitário: artigos/tratamento-fitossanitario-calor.md
+      - Legislação:
+          - RDC 622 - ANVISA: artigos/rdc-622.md
+          - Comunicado CVS 006: artigos/comunicado-cvs-006.md
+      - Institucional:
+          - Sobre a ENGEPRAG: artigos/sobre-engeprag.md
+          - Sustentabilidade: artigos/sustentabilidade.md
+
+  - Perguntas Frequentes:
+      - faq/index.md
+      - FAQ Residencial: faq/faq-residencial.md
+      - Baratas: faq/baratas.md
+      - Cupins: faq/cupins.md
+      - Escorpiões: faq/escorpioes.md
+      - Roedores: faq/roedores.md
+
+  - Serviços:
+      - servicos/index.md
+      - CIP - Controle Integrado: servicos/cip-controle-integrado.md
+      - Desinsetização: servicos/desinsetizacao.md
+      - Desratização: servicos/desratizacao.md
+      - Descupinização: servicos/descupinizacao.md
+      - Desinfecção: servicos/desinfeccao.md
+      - Escorpiões e Aranhas: servicos/escorpioes-aranhas.md
+      - Pulgas, Carrapatos e Percevejos: servicos/pulgas-carrapatos-percevejos.md
+      - Moscas, Mosquitos, Traças e Carunchos: servicos/moscas-mosquitos-tracas-carunchos.md
+      - Desalojamento Pombos e Morcegos: servicos/desalojamento-pombos-morcegos.md
+      - Limpeza de Caixa d'Água: servicos/limpeza-caixa-dagua.md
+      - Fitossanitários: servicos/fitossanitarios.md
+      - Cuidados Especiais: servicos/cuidados-especiais.md
+
+  - Normas e Regulamentação:
+      - normas/index.md
+
+  - Sobre a ENGEPRAG:
+      - sobre-engeprag/index.md
+      - História, Missão e Valores: sobre-engeprag/historia-missao-valores.md
+      - Equipe e Responsável Técnica: sobre-engeprag/equipe-responsavel-tecnico.md
+      - Certificações e Habilitações: sobre-engeprag/certificacoes-habilitacoes.md
+      - Áreas de Atuação: sobre-engeprag/areas-atuacao.md

@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contato Direto ENGEPRAG
+    url: https://wa.me/5512992225458
+    about: Para questões urgentes ou comerciais, entre em contato via WhatsApp
+  - name: Site Oficial
+    url: https://www.engeprag.com.br
+    about: Visite nosso site para mais informações sobre serviços
+  - name: Email
+    url: mailto:contato@engeprag.com.br
+    about: Envie email para contato@engeprag.com.br

@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+<!--
+  Override do tema Material: injeta dados estruturados (Schema.org/JSON-LD),
+  Open Graph e canonical em todas as páginas, para descoberta por LLMs e buscadores.
+  A entidade abaixo espelha SEMANTIC_CONTEXT.jsonld (sem aggregateRating, que
+  pertence ao site oficial validado pelo Google).
+-->
+{% block extrahead %}
+  {% if page %}
+    {% set _title = page.title | default(config.site_name) %}
+    {% set _desc = page.meta.description | default(config.site_description) %}
+  {% else %}
+    {% set _title = config.site_name %}
+    {% set _desc = config.site_description %}
+  {% endif %}
+
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="ENGEPRAG — Base de Conhecimento">
+  <meta property="og:title" content="{{ _title }}">
+  <meta property="og:description" content="{{ _desc }}">
+  <meta property="og:locale" content="pt_BR">
+  {% if page and page.canonical_url %}<meta property="og:url" content="{{ page.canonical_url }}">{% endif %}
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ _title }}">
+  <meta name="twitter:description" content="{{ _desc }}">
+  <meta name="author" content="ENGEPRAG — Controle de Pragas Urbanas">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfessionalService",
+    "@id": "https://www.engeprag.com.br/#organization",
+    "name": "ENGEPRAG",
+    "legalName": "ENGEPRAG Controle de Pragas Urbanas Ltda.",
+    "alternateName": "ENGEPRAG — Engenharia no Controle de Pragas Urbanas",
+    "description": "Empresa de engenharia especializada em controle integrado de pragas urbanas no Vale do Paraíba (SP), desde 2012. Garantia de até 7 anos em cupim de solo.",
+    "url": "https://www.engeprag.com.br",
+    "telephone": "+55-12-3911-5791",
+    "email": "contato@engeprag.com.br",
+    "foundingDate": "2012",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Av. dos Estados, 312 - Vila Maria",
+      "addressLocality": "São José dos Campos",
+      "addressRegion": "SP",
+      "postalCode": "12209-450",
+      "addressCountry": "BR"
+    },
+    "areaServed": ["São José dos Campos", "Jacareí", "Taubaté", "Caçapava", "Vale do Paraíba", "Litoral Norte SP"],
+    "knowsAbout": ["controle de pragas urbanas", "descupinização", "cupim de solo", "desinsetização", "desratização", "controle de escorpiões", "CIP - Controle Integrado de Pragas", "tratamento fitossanitário NIMF-15"],
+    "employee": {
+      "@type": "Person",
+      "name": "Paula Jasper Chemin",
+      "jobTitle": "Engenheira Agrônoma — Responsável Técnica",
+      "hasCredential": {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "Professional License",
+        "recognizedBy": { "@type": "Organization", "name": "CREA-SP" },
+        "identifier": "5063743836"
+      }
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "-23.2237",
+      "longitude": "-45.9009"
+    },
+    "hasCredential": [
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "Vigilância Sanitária (CEVS)", "identifier": "354990401-812-000019-1-0", "recognizedBy": { "@type": "GovernmentOrganization", "name": "Vigilância Sanitária" } },
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "CREA-SP (Pessoa Jurídica)", "identifier": "1798880", "recognizedBy": { "@type": "Organization", "name": "Conselho Regional de Engenharia e Agronomia de São Paulo" } },
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "CETESB", "identifier": "203984201319", "recognizedBy": { "@type": "GovernmentOrganization", "name": "Companhia Ambiental do Estado de São Paulo" } },
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "IBAMA", "identifier": "5764249", "recognizedBy": { "@type": "GovernmentOrganization", "name": "Instituto Brasileiro do Meio Ambiente" } },
+      { "@type": "EducationalOccupationalCredential", "credentialCategory": "MAPA / NIMF-15", "recognizedBy": { "@type": "GovernmentOrganization", "name": "Ministério da Agricultura, Pecuária e Abastecimento" } }
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "Serviços de Controle de Pragas",
+      "itemListElement": [
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Descupinização de Cupim de Solo", "description": "Tratamento contra cupim subterrâneo com barreira química", "termsOfService": "Garantia de até 7 anos" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Descupinização de Cupim de Madeira Seca", "termsOfService": "Garantia de até 2 anos" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Desinsetização (Dedetização)", "description": "Controle de baratas, formigas e outros insetos, com tratamento de aranhas e escorpiões incluso" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Desratização", "description": "Controle de roedores com iscas em porta-iscas de segurança" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Tratamento Fitossanitário MAPA/NIMF-15", "description": "Certificação para embalagens de madeira para exportação" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "Limpeza de Caixa d'Água", "description": "Higienização e desinfecção de reservatórios conforme CVS 006" } },
+        { "@type": "Offer", "itemOffered": { "@type": "Service", "name": "CIP - Controle Integrado de Pragas", "description": "Contrato anual de monitoramento e controle preventivo conforme RDC 622" } }
+      ]
+    },
+    "additionalProperty": [
+      { "@type": "PropertyValue", "name": "Serviços Realizados", "value": "30000+" },
+      { "@type": "PropertyValue", "name": "Anos de Atuação", "value": "13+" }
+    ],
+    "sameAs": [
+      "https://www.google.com/maps/place/ENGEPRAG+-+Controle+de+Pragas+Urbanas",
+      "https://www.instagram.com/engeprag",
+      "https://www.youtube.com/@engeprag",
+      "https://www.linkedin.com/company/engeprag",
+      "https://github.com/engeprag/kb-engeprag"
+    ]
+  }
+  </script>
+{% endblock %}
