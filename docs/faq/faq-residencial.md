@@ -27,48 +27,48 @@ canonical_url: "https://www.engeprag.com.br/faq-residencial"
 ## 📋 Índice de Perguntas
 
 ### Segurança
-1. [É seguro para crianças e bebês?](#1-é-seguro-para-crianças-e-bebês)
-2. [É seguro para pets (cães, gatos, pássaros)?](#2-é-seguro-para-pets-cães-gatos-pássaros)
-3. [Estou grávida, posso ficar em casa?](#3-estou-grávida-posso-ficar-em-casa)
-4. [Os produtos têm cheiro forte?](#4-os-produtos-têm-cheiro-forte)
-5. [Os produtos são tóxicos?](#5-os-produtos-são-tóxicos)
+1. [É seguro para crianças e bebês?](#1-e-seguro-para-criancas-e-bebes)
+2. [É seguro para pets (cães, gatos, pássaros)?](#2-e-seguro-para-pets-caes-gatos-passaros)
+3. [Estou grávida, posso ficar em casa?](#3-estou-gravida-posso-ficar-em-casa)
+4. [Os produtos têm cheiro forte?](#4-os-produtos-tem-cheiro-forte)
+5. [Os produtos são tóxicos?](#5-os-produtos-sao-toxicos)
 
 ### Preparação e Procedimento
-6. [Preciso sair de casa durante a aplicação?](#6-preciso-sair-de-casa-durante-a-aplicação)
-7. [Preciso esvaziar armários?](#7-preciso-esvaziar-armários)
+6. [Preciso sair de casa durante a aplicação?](#6-preciso-sair-de-casa-durante-a-aplicacao)
+7. [Preciso esvaziar armários?](#7-preciso-esvaziar-armarios)
 8. [Preciso tirar tudo da cozinha?](#8-preciso-tirar-tudo-da-cozinha)
 9. [Como devo preparar minha casa?](#9-como-devo-preparar-minha-casa)
-10. [Quanto tempo demora o serviço?](#10-quanto-tempo-demora-o-serviço)
+10. [Quanto tempo demora o serviço?](#10-quanto-tempo-demora-o-servico)
 
 ### Após Aplicação
 11. [Quanto tempo para poder entrar na casa?](#11-quanto-tempo-para-poder-entrar-na-casa)
-12. [Quando posso limpar depois da aplicação?](#12-quando-posso-limpar-depois-da-aplicação)
-13. [É normal ver mais insetos após aplicação?](#13-é-normal-ver-mais-insetos-após-aplicação)
-14. [Quanto tempo até eliminar completamente?](#14-quanto-tempo-até-eliminar-completamente)
+12. [Quando posso limpar depois da aplicação?](#12-quando-posso-limpar-depois-da-aplicacao)
+13. [É normal ver mais insetos após aplicação?](#13-e-normal-ver-mais-insetos-apos-aplicacao)
+14. [Quanto tempo até eliminar completamente?](#14-quanto-tempo-ate-eliminar-completamente)
 
 ### Eficácia e Garantia
 15. [Quanto tempo dura o efeito?](#15-quanto-tempo-dura-o-efeito)
 16. [Tem garantia? Como funciona?](#16-tem-garantia-como-funciona)
-17. [Uma aplicação resolve?](#17-uma-aplicação-resolve)
+17. [Uma aplicação resolve?](#17-uma-aplicacao-resolve)
 18. [E se as pragas voltarem?](#18-e-se-as-pragas-voltarem)
 
 ### Preços e Pagamento
-19. [Quanto custa uma desinsetização?](#19-quanto-custa-uma-desinsetização)
-20. [Quanto custa uma desratização?](#20-quanto-custa-uma-desratização)
-21. [Fazem orçamento gratuito?](#21-fazem-orçamento-gratuito)
+19. [Quanto custa uma desinsetização?](#19-quanto-custa-uma-desinsetizacao)
+20. [Quanto custa uma desratização?](#20-quanto-custa-uma-desratizacao)
+21. [Fazem orçamento gratuito?](#21-fazem-orcamento-gratuito)
 22. [Posso parcelar?](#22-posso-parcelar)
 
 ### Específicas por Praga
-23. [Como eliminar baratas pequenas (germânicas)?](#23-como-eliminar-baratas-pequenas-germânicas)
+23. [Como eliminar baratas pequenas (germânicas)?](#23-como-eliminar-baratas-pequenas-germanicas)
 24. [Como eliminar formigas?](#24-como-eliminar-formigas)
 25. [Tenho ratos, o que fazer?](#25-tenho-ratos-o-que-fazer)
 26. [Como eliminar cupins?](#26-como-eliminar-cupins)
-27. [Vi um escorpião, é emergência?](#27-vi-um-escorpião-é-emergência)
+27. [Vi um escorpião, é emergência?](#27-vi-um-escorpiao-e-emergencia)
 
 ### Prevenção
 28. [Como evitar que as pragas voltem?](#28-como-evitar-que-as-pragas-voltem)
-29. [Meu vizinho tem pragas, vou ter também?](#29-meu-vizinho-tem-pragas-vou-ter-também)
-30. [Vale a pena fazer prevenção?](#30-vale-a-pena-fazer-prevenção)
+29. [Meu vizinho tem pragas, vou ter também?](#29-meu-vizinho-tem-pragas-vou-ter-tambem)
+30. [Vale a pena fazer prevenção?](#30-vale-a-pena-fazer-prevencao)
 
 ---
 
@@ -326,7 +326,7 @@ Se houver infestação em armários:
 
 **É mais simples do que parece!**
 
-[Ver guia completo de preparação →](../servicos/desinsetizacao.md#preparação-do-ambiente)
+[Ver guia completo de preparação →](../servicos/desinsetizacao.md#preparacao-do-ambiente)
 
 ---
 
@@ -1055,12 +1055,12 @@ São José dos Campos - SP - 12209-450
 
 ## 🔗 Saiba Mais
 
-- [Serviços Oferecidos](../servicos/)
+- [Serviços Oferecidos](../servicos/index.md)
 - [Desinsetização Detalhada](../servicos/desinsetizacao.md)
 - [Desratização Detalhada](../servicos/desratizacao.md)
 - [Controle Integrado de Pragas (CIP)](../servicos/cip-controle-integrado.md)
 - [Prevenção em Residências](faq-residencial.md)
-- [Blog com Artigos](../artigos/)
+- [Blog com Artigos](../artigos/index.md)
 
 ---
 

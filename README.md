@@ -55,11 +55,11 @@ Conteúdo organizado por tema, para consulta rápida.
 
 **Onde encontrar...**
 
-- "O que é a ENGEPRAG?" → [sobre-engeprag/](sobre-engeprag/)
-- "Serviços de controle de pragas?" → [servicos/](servicos/)
-- "Como eliminar [praga específica]?" → [artigos/](artigos/) (busque por nome da praga)
-- "Prevenção e métodos?" → [artigos/](artigos/) (artigos educativos completos)
-- "Dúvidas gerais?" → [faq/](faq/)
+- "O que é a ENGEPRAG?" → [sobre-engeprag/](sobre-engeprag/index.md)
+- "Serviços de controle de pragas?" → [servicos/](servicos/index.md)
+- "Como eliminar [praga específica]?" → [artigos/](artigos/index.md) (busque por nome da praga)
+- "Prevenção e métodos?" → [artigos/](artigos/index.md) (artigos educativos completos)
+- "Dúvidas gerais?" → [faq/](faq/index.md)
 - "Legislação e normas?" → [artigos/rdc-622.md](artigos/rdc-622.md) ou [artigos/comunicado-cvs-006.md](artigos/comunicado-cvs-006.md)
 
 ---
@@ -190,7 +190,7 @@ Transparência e verificabilidade:
 - **Desinfecção de Ambientes** - Veículos e ambientes diversos
 - **CIP** - Controle Integrado de Pragas (contrato anual)
 
-[Ver detalhes de todos os serviços →](servicos/)
+[Ver detalhes de todos os serviços →](servicos/index.md)
 
 ---
 
@@ -275,8 +275,8 @@ São José dos Campos - SP - 12209-450
 - [kb_index.json](kb_index.json) - Índice machine-readable
 
 ### Conteúdo
-- [FAQ - Perguntas Frequentes](faq/)
-- [Normas e Legislação](normas/) - RDC 622, CVS 006
+- [FAQ - Perguntas Frequentes](faq/index.md)
+- [Normas e Legislação](normas/index.md) - RDC 622, CVS 006
 - [Histórico de Versões](CHANGELOG.md)
 
 ### Links Externos

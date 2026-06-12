@@ -59,18 +59,18 @@ A ENGEPRAG oferece desratização com:
 
 ## 📋 Índice
 
-- [O que é Desratização?](#o-que-é-desratização)
-- [Por Que é Urgente?](#por-que-é-urgente)
+- [O que é Desratização?](#o-que-e-desratizacao)
+- [Por Que é Urgente?](#por-que-e-urgente)
 - [Roedores Urbanos](#roedores-urbanos)
-- [Doenças Transmitidas](#doenças-transmitidas)
-- [Como Funciona o Serviço](#como-funciona-o-serviço)
-- [Métodos Utilizados](#métodos-utilizados)
-- [Produtos e Segurança](#produtos-e-segurança)
-- [Sinais de Infestação](#sinais-de-infestação)
-- [Preparação do Ambiente](#preparação-do-ambiente)
-- [Cuidados Após Aplicação](#cuidados-após-aplicação)
-- [Preços e Orçamento](#preços-e-orçamento)
-- [Prevenção](#prevenção)
+- [Doenças Transmitidas](#doencas-transmitidas)
+- [Como Funciona o Serviço](#como-funciona-o-servico)
+- [Métodos Utilizados](#metodos-utilizados)
+- [Produtos e Segurança](#produtos-e-seguranca)
+- [Sinais de Infestação](#sinais-de-infestacao)
+- [Preparação do Ambiente](#preparacao-do-ambiente)
+- [Cuidados Após Aplicação](#cuidados-apos-aplicacao)
+- [Preços e Orçamento](#precos-e-orcamento)
+- [Prevenção](#prevencao)
 - [FAQ](#perguntas-frequentes)
 
 ---
@@ -120,7 +120,7 @@ São serviços **diferentes** que requerem produtos e técnicas distintas.
 - **Salmonelose**: Intoxicação alimentar severa
 - **Tifo Murino**: Febre e erupções cutâneas
 
-[Ver detalhes de doenças →](#doenças-transmitidas)
+[Ver detalhes de doenças →](#doencas-transmitidas)
 
 ### 💰 Danos Materiais
 

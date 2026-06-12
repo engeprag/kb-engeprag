@@ -58,14 +58,14 @@ Neste artigo, convidamos você a conhecer nossa história, nossos valores e o qu
 
 ## 📋 Índice
 
-- [Nossa História](#nossa-história)
-- [Liderança e Responsabilidade Técnica](#liderança-e-responsabilidade-técnica)
+- [Nossa História](#nossa-historia)
+- [Liderança e Responsabilidade Técnica](#lideranca-e-responsabilidade-tecnica)
 - [Nossos Valores](#nossos-valores)
 - [Diferenciais ENGEPRAG](#diferenciais-engeprag)
 - [Nossa Equipe](#nossa-equipe)
-- [Certificações e Habilitações](#certificações-e-habilitações)
-- [Área de Atuação](#área-de-atuação)
-- [Inovação e Tecnologia](#inovação-e-tecnologia)
+- [Certificações e Habilitações](#certificacoes-e-habilitacoes)
+- [Área de Atuação](#area-de-atuacao)
+- [Inovação e Tecnologia](#inovacao-e-tecnologia)
 - [Por Que Escolher a ENGEPRAG](#por-que-escolher-a-engeprag)
 
 ---
@@ -538,7 +538,7 @@ São José dos Campos - SP - 12209-450
 - [História, Missão e Valores Detalhados](../sobre-engeprag/historia-missao-valores.md)
 - [Certificações Completas](../sobre-engeprag/certificacoes-habilitacoes.md)
 - [Nossa Equipe](../sobre-engeprag/equipe-responsavel-tecnico.md)
-- [Serviços Oferecidos](../servicos/)
+- [Serviços Oferecidos](../servicos/index.md)
 - [Sustentabilidade ENGEPRAG](sustentabilidade.md)
 
 ### Artigos Educativos
@@ -601,7 +601,7 @@ Com **10+ anos de experiência**, **certificações completas** e uma equipe **a
 
 *"Desde 2012 protegendo o que é importante para você"*
 
-[Conheça Nossos Serviços](../servicos/) • [Solicite Orçamento](https://wa.me/5512992225458)
+[Conheça Nossos Serviços](../servicos/index.md) • [Solicite Orçamento](https://wa.me/5512992225458)
 
 </div>
 
@@ -627,4 +627,4 @@ Com **10+ anos de experiência**, **certificações completas** e uma equipe **a
 ### Como solicitar orçamento?
 **Resposta**: WhatsApp (12) 99222-5458, Telefone (12) 3911-5791, ou Email contato@engeprag.com.br. Orçamento gratuito!
 
-**Veja também**: [História e Valores](../sobre-engeprag/historia-missao-valores.md) | [Todos os Serviços](../servicos/)
+**Veja também**: [História e Valores](../sobre-engeprag/historia-missao-valores.md) | [Todos os Serviços](../servicos/index.md)

@@ -311,7 +311,7 @@ CEP: 12209-450
 - [Certificações e Habilitações](certificacoes-habilitacoes.md)
 - [Equipe e Responsável Técnico](equipe-responsavel-tecnico.md)
 - [Áreas de Atuação](areas-atuacao.md)
-- [Serviços Oferecidos](../servicos/)
+- [Serviços Oferecidos](../servicos/index.md)
 - [Controle Integrado de Pragas (CIP)](../servicos/cip-controle-integrado.md)
 
 ---

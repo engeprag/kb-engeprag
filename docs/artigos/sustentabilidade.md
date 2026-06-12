@@ -57,15 +57,15 @@ Neste artigo, compartilhamos nosso compromisso com práticas sustentáveis e com
 
 ## 📋 Índice
 
-- [O Que é Pegada Ecológica](#o-que-é-pegada-ecológica)
+- [O Que é Pegada Ecológica](#o-que-e-pegada-ecologica)
 - [Nosso Compromisso Ambiental](#nosso-compromisso-ambiental)
-- [Práticas Sustentáveis](#práticas-sustentáveis)
-- [Gestão de Resíduos](#gestão-de-resíduos)
-- [Minimização de Impactos](#minimização-de-impactos)
-- [Certificações Ambientais](#certificações-ambientais)
-- [Educação e Responsabilidade Social](#educação-e-responsabilidade-social)
+- [Práticas Sustentáveis](#praticas-sustentaveis)
+- [Gestão de Resíduos](#gestao-de-residuos)
+- [Minimização de Impactos](#minimizacao-de-impactos)
+- [Certificações Ambientais](#certificacoes-ambientais)
+- [Educação e Responsabilidade Social](#educacao-e-responsabilidade-social)
 - [Economia Circular](#economia-circular)
-- [Futuro Sustentável](#futuro-sustentável)
+- [Futuro Sustentável](#futuro-sustentavel)
 
 ---
 

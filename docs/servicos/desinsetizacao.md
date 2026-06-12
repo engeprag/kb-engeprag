@@ -41,15 +41,15 @@ A ENGEPRAG oferece desinsetização com:
 
 ## 📋 Índice
 
-- [O que é Desinsetização?](#o-que-é-desinsetização)
+- [O que é Desinsetização?](#o-que-e-desinsetizacao)
 - [Insetos Combatidos](#insetos-combatidos)
-- [Como Funciona o Serviço](#como-funciona-o-serviço)
+- [Como Funciona o Serviço](#como-funciona-o-servico)
 - [Produtos Utilizados](#produtos-utilizados)
-- [Métodos de Aplicação](#métodos-de-aplicação)
-- [Duração e Garantia](#duração-e-garantia)
-- [Preparação do Ambiente](#preparação-do-ambiente)
-- [Cuidados Após Aplicação](#cuidados-após-aplicação)
-- [Preços e Orçamento](#preços-e-orçamento)
+- [Métodos de Aplicação](#metodos-de-aplicacao)
+- [Duração e Garantia](#duracao-e-garantia)
+- [Preparação do Ambiente](#preparacao-do-ambiente)
+- [Cuidados Após Aplicação](#cuidados-apos-aplicacao)
+- [Preços e Orçamento](#precos-e-orcamento)
 - [Quando Contratar](#quando-contratar)
 - [FAQ](#perguntas-frequentes)
 
@@ -181,7 +181,7 @@ Ambos os termos se referem ao **mesmo serviço**, mas "desinsetização" é mais
 - Retirar pets do ambiente
 - Garantir acesso a todas as áreas
 
-[Ver lista completa de preparação →](#preparação-do-ambiente)
+[Ver lista completa de preparação →](#preparacao-do-ambiente)
 
 ### Passo 5: Aplicação 💨
 

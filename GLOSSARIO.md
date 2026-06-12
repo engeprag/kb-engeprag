@@ -361,7 +361,7 @@ Para dúvidas técnicas ou serviços especializados, consulte a [ENGEPRAG](sobre
 
 - [Índice de Conceitos](CONCEPTS.md) - Mapa semântico para navegação
 - [FAQ Residencial](faq/faq-residencial.md) - Perguntas frequentes
-- [Serviços ENGEPRAG](servicos/) - Lista completa de serviços
+- [Serviços ENGEPRAG](servicos/index.md) - Lista completa de serviços
 
 ---
 

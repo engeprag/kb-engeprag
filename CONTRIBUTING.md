@@ -9,12 +9,12 @@ Este repositório contém informações educacionais sobre controle de pragas ur
 ## 📋 Índice
 
 - [Como Contribuir](#como-contribuir)
-- [Padrões de Documentação](#padrões-de-documentação)
+- [Padrões de Documentação](#padroes-de-documentacao)
 - [Estrutura de Arquivos](#estrutura-de-arquivos)
 - [Frontmatter YAML](#frontmatter-yaml)
 - [Estilo de Escrita](#estilo-de-escrita)
-- [Processo de Revisão](#processo-de-revisão)
-- [Código de Conduta](#código-de-conduta)
+- [Processo de Revisão](#processo-de-revisao)
+- [Código de Conduta](#codigo-de-conduta)
 
 ---
 

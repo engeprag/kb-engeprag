@@ -74,15 +74,15 @@ Neste artigo, você vai entender:
 
 ## 📋 Índice
 
-- [O Que é Desratização](#o-que-é-desratização)
-- [Por Que Ratos São Perigosos](#por-que-ratos-são-perigosos)
-- [Espécies Urbanas Comuns](#espécies-urbanas-comuns)
-- [Sinais de Infestação](#sinais-de-infestação)
+- [O Que é Desratização](#o-que-e-desratizacao)
+- [Por Que Ratos São Perigosos](#por-que-ratos-sao-perigosos)
+- [Espécies Urbanas Comuns](#especies-urbanas-comuns)
+- [Sinais de Infestação](#sinais-de-infestacao)
 - [Impactos dos Roedores](#impactos-dos-roedores)
-- [Quando NÃO Fazer Sozinho](#quando-não-fazer-sozinho)
+- [Quando NÃO Fazer Sozinho](#quando-nao-fazer-sozinho)
 - [Quando Contratar Profissional](#quando-contratar-profissional)
-- [Como Funciona a Desratização Profissional](#como-funciona-a-desratização-profissional)
-- [Prevenção](#prevenção)
+- [Como Funciona a Desratização Profissional](#como-funciona-a-desratizacao-profissional)
+- [Prevenção](#prevencao)
 - [FAQ](#perguntas-frequentes)
 
 ---
@@ -182,7 +182,7 @@ Roedores podem transmitir **mais de 200 doenças**, incluindo:
 - Febre, vômitos
 - Dores articulares
 
-[Ver lista completa de doenças →](../servicos/desratizacao.md#doenças-transmitidas)
+[Ver lista completa de doenças →](../servicos/desratizacao.md#doencas-transmitidas)
 
 ### 💰 Danos Materiais
 
@@ -717,7 +717,7 @@ Riscos:
 
 **Orçamento gratuito**: (12) 99222-5458
 
-[Ver detalhes de preços →](../servicos/desratizacao.md#preços-e-orçamento)
+[Ver detalhes de preços →](../servicos/desratizacao.md#precos-e-orcamento)
 
 ### 4. Quanto tempo para eliminar?
 

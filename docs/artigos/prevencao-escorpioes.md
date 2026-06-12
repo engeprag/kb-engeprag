@@ -82,14 +82,14 @@ Neste guia, você aprenderá:
 
 ## 📋 Índice
 
-- [Por Que Escorpiões São Perigosos](#por-que-escorpiões-são-perigosos)
-- [Escorpião Amarelo - O Mais Perigoso](#escorpião-amarelo---o-mais-perigoso)
-- [Como Escorpiões Entram em Casa](#como-escorpiões-entram-em-casa)
+- [Por Que Escorpiões São Perigosos](#por-que-escorpioes-sao-perigosos)
+- [Escorpião Amarelo - O Mais Perigoso](#escorpiao-amarelo-o-mais-perigoso)
+- [Como Escorpiões Entram em Casa](#como-escorpioes-entram-em-casa)
 - [Medidas Preventivas Essenciais](#medidas-preventivas-essenciais)
-- [Limpeza e Organização](#limpeza-e-organização)
-- [Vedação e Selagem](#vedação-e-selagem)
-- [Cuidados Diários](#cuidados-diários)
-- [O Que Fazer se Encontrar um Escorpião](#o-que-fazer-se-encontrar-um-escorpião)
+- [Limpeza e Organização](#limpeza-e-organizacao)
+- [Vedação e Selagem](#vedacao-e-selagem)
+- [Cuidados Diários](#cuidados-diarios)
+- [O Que Fazer se Encontrar um Escorpião](#o-que-fazer-se-encontrar-um-escorpiao)
 - [Primeiros Socorros](#primeiros-socorros)
 - [Tratamento Profissional](#tratamento-profissional)
 

@@ -60,13 +60,13 @@ Neste artigo, você vai entender:
 
 ## 📋 Índice
 
-- [Identificação](#identificação)
+- [Identificação](#identificacao)
 - [Biologia e Ciclo de Vida](#biologia-e-ciclo-de-vida)
-- [Hábitos e Comportamento](#hábitos-e-comportamento)
-- [Por Que É Tão Difícil Eliminar?](#por-que-é-tão-difícil-eliminar)
-- [Riscos à Saúde](#riscos-à-saúde)
+- [Hábitos e Comportamento](#habitos-e-comportamento)
+- [Por Que É Tão Difícil Eliminar?](#por-que-e-tao-dificil-eliminar)
+- [Riscos à Saúde](#riscos-a-saude)
 - [Como Eliminar](#como-eliminar)
-- [Prevenção](#prevenção)
+- [Prevenção](#prevencao)
 - [Quando Chamar Profissional](#quando-chamar-profissional)
 
 ---

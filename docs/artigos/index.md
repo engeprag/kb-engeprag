@@ -23,12 +23,12 @@ audience: ["homeowners", "businesses", "general-public"]
 | Cupins | 3 artigos | [Ver artigos](#cupins) |
 | Baratas | 2 artigos | [Ver artigos](#baratas) |
 | Roedores | 2 artigos | [Ver artigos](#roedores) |
-| Escorpiões e Aranhas | 3 artigos | [Ver artigos](#escorpiões-e-aranhas) |
+| Escorpiões e Aranhas | 3 artigos | [Ver artigos](#escorpioes-e-aranhas) |
 | Formigas | 1 artigo | [Ver artigos](#formigas) |
-| Serviços e Procedimentos | 3 artigos | [Ver artigos](#serviços-e-procedimentos) |
-| Legislação e Normas | 2 artigos | [Ver artigos](#legislação-e-normas) |
+| Serviços e Procedimentos | 3 artigos | [Ver artigos](#servicos-e-procedimentos) |
+| Legislação e Normas | 2 artigos | [Ver artigos](#legislacao-e-normas) |
 | Institucional | 2 artigos | [Ver artigos](#institucional) |
-| **Serviços Completos** | 10 páginas | [Ver serviços](#catálogo-de-serviços) |
+| **Serviços Completos** | 10 páginas | [Ver serviços](#catalogo-de-servicos) |
 
 ---
 
@@ -290,7 +290,7 @@ Para mais informações ou agendamento de serviços:
 
 - [README - Visão Geral](../index.md)
 - [FAQ Residencial](../faq/faq-residencial.md)
-- [Serviços](../servicos/)
+- [Serviços](../servicos/index.md)
 
 ---
 
