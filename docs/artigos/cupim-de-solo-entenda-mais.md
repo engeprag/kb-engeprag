@@ -351,7 +351,7 @@ Cupins de solo requerem **abordagem profissional** porque:
 
 ### Tratamento de cupim de solo tem garantia?
 
-**Resposta:** Sim. A ENGEPRAG oferece garantia de até 7 anos para tratamentos de barreira química em cupins de solo, dependendo da situação. O contrato inclui monitoramento periódico e suporte técnico durante todo o período.
+**Resposta:** Sim. A ENGEPRAG oferece garantia de até 7 anos para cupim de solo e até 2 anos para barreira química, conforme o tratamento aplicado. O contrato inclui monitoramento periódico e suporte técnico durante todo o período.
 
 ### Quanto tempo demora para eliminar uma colônia de cupim?
 
@@ -373,7 +373,7 @@ Cupins de solo requerem **abordagem profissional** porque:
 
 ### Horários
 
-- **Atendimento**: Segunda a Sexta, 9h às 18h
+- **Atendimento**: Segunda a Sexta, 8h às 18h · Sábado, 8h às 12h
 - **Agendamentos**: Disponível todos os dias
 
 ### Área de Atendimento

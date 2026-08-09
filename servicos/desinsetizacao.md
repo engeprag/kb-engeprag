@@ -626,7 +626,7 @@ Para infestações estabelecidas, serviço profissional é mais eficaz.
 **WhatsApp**: **(12) 99222-5458** ← Atendimento rápido!
 **Email**: contato@engeprag.com.br
 
-**Horário**: Segunda a Sexta, 9h às 18h
+**Horário**: Segunda a Sexta, 8h às 18h · Sábado, 8h às 12h
 **Agendamentos**: Segunda a Sexta, Sábados, Domingos e Feriados
 
 ### Endereço

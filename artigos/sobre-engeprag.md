@@ -261,7 +261,7 @@ Produtos ENGEPRAG (profissionais):
 
 #### 5. Flexibilidade de Atendimento 📅
 
-✅ **Horários flexíveis**: Segunda a sexta, 9h-18h
+✅ **Horários flexíveis**: Segunda a sexta, 8h-18h · Sábado, 8h-12h
 ✅ **Agendamentos**: Sábados, domingos e feriados
 ✅ **Atendimento emergencial** (quando necessário)
 ✅ **WhatsApp**: Resposta rápida
@@ -513,7 +513,7 @@ Quando você escolhe a ENGEPRAG, prometemos:
 
 ### Horário
 
-⏰ **Atendimento**: Segunda a Sexta, 9h às 18h
+⏰ **Atendimento**: Segunda a Sexta, 8h às 18h · Sábado, 8h às 12h
 📅 **Agendamentos**: Segunda a Sexta, Sábados, Domingos e Feriados
 
 ### Endereço

@@ -1,6 +1,6 @@
 ---
 title: "Descupinização - Controle de Cupins de Solo e Madeira Seca"
-description: "Serviço profissional de descupinização para eliminação de cupins de solo e madeira seca. Garantia de até 7 anos."
+description: "Serviço profissional de descupinização para eliminação de cupins de solo (garantia até 7 anos) e madeira seca (até 2 anos)."
 category: "Serviços"
 subcategory: "Controle de Cupins"
 tags: ["descupinizacao", "cupins", "cupim-de-solo", "cupim-madeira-seca"]

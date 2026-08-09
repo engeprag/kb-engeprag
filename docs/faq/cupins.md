@@ -174,8 +174,9 @@ A ENGEPRAG oferece **garantia de até 7 anos** em descupinizações.
 ### A descupinização tem garantia?
 
 **Sim!** ENGEPRAG oferece:
-- **Garantia padrão**: 1-2 anos
-- **Garantia estendida**: Até **7 anos** (em algumas situações)
+- **Cupim de solo**: até **7 anos**
+- **Barreira química**: até **2 anos**
+- **Cupim de madeira**: até **2 anos**
 - **Acompanhamento**: Visitas técnicas durante o período
 
 ---
@@ -212,7 +213,7 @@ A ENGEPRAG oferece **garantia de até 7 anos** em descupinizações.
 - **Telefone**: (12) 3911-5791
 - **Email**: contato@engeprag.com.br
 
-**Garantia de até 7 anos em descupinização!**
+**Garantia de até 7 anos em cupim de solo!**
 
 ---
 

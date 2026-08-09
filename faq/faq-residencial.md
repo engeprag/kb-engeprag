@@ -1042,7 +1042,7 @@ Se houver infestação em armários:
 
 ### Horário de Atendimento
 
-⏰ **Segunda a Sexta**: 9h às 18h
+⏰ **Segunda a Sexta**: 8h às 18h · **Sábado**: 8h às 12h
 📅 **Agendamentos**: Segunda a Sexta, Sábados, Domingos e Feriados
 
 ### Endereço

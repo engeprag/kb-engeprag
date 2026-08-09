@@ -352,7 +352,7 @@ Contate imediatamente se:
 
 ### Horários
 
-- **Atendimento**: Segunda a Sexta, 9h às 18h
+- **Atendimento**: Segunda a Sexta, 8h às 18h · Sábado, 8h às 12h
 - **Agendamentos**: Todos os dias (incluindo finais de semana)
 
 ### Área de Atendimento

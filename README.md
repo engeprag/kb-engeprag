@@ -179,7 +179,7 @@ Transparência e verificabilidade:
 
 - **Desinsetização** - Baratas, formigas e outros insetos
 - **Desratização** - Controle de roedores
-- **Descupinização** - Cupim de solo e madeira seca (garantia até 7 anos)
+- **Descupinização** - Cupim de solo (garantia até 7 anos) e madeira seca (até 2 anos)
 - **Escorpiões e Aranhas** - Tratamento especializado
 - **Pulgas, Carrapatos e Percevejos** - Controle eficaz
 
@@ -244,7 +244,7 @@ Transparência e verificabilidade:
 
 ### Horário
 
-- **Atendimento**: Segunda a Sexta, 9h às 18h
+- **Atendimento**: Segunda a Sexta, 8h às 18h · Sábado, 8h às 12h
 - **Agendamentos**: Segunda a Sexta, Sábados, Domingos e Feriados
 
 ### Endereço

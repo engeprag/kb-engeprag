@@ -152,7 +152,7 @@ A ENGEPRAG tem como missão:
 
 ### 6. Atendimento Amplo
 
-✅ **Segunda a Sexta**: 9h às 18h
+✅ **Segunda a Sexta**: 8h às 18h · **Sábado**: 8h às 12h
 ✅ **Agendamentos**: Sábados, Domingos e Feriados
 ✅ **Atendimento emergencial**
 ✅ **WhatsApp**: Resposta rápida
@@ -294,7 +294,7 @@ CEP: 12209-450
 
 ### Horário de Atendimento
 
-- **Segunda a Sexta**: 9h às 18h
+- **Segunda a Sexta**: 8h às 18h · **Sábado**: 8h às 12h
 - **Agendamentos**: Segunda a Sexta, Sábados, Domingos e Feriados
 
 ### Online

@@ -220,7 +220,7 @@
       "title": "Descupinização - Controle de Cupins de Solo e Madeira Seca",
       "type": "service",
       "category": "Serviços",
-      "summary": "Serviço profissional de descupinização para eliminação de cupins de solo e madeira seca. Garantia de até 7 anos.",
+      "summary": "Serviço profissional de descupinização para eliminação de cupins de solo (garantia até 7 anos) e madeira seca (até 2 anos).",
       "tags": [
         "descupinizacao",
         "cupins",
@@ -861,7 +861,7 @@
     "email": "contato@engeprag.com.br",
     "address": "Av. dos Estados, 312 - Vila Maria, São José dos Campos - SP, 12209-450",
     "hours": {
-      "service": "Segunda a Sexta, 9h às 18h",
+      "service": "Segunda a Sexta, 8h às 18h · Sábado, 8h às 12h",
       "scheduling": "Segunda a Domingo (incluindo feriados)"
     },
     "coverage": "Vale do Paraíba e região"
