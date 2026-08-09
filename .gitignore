@@ -40,3 +40,25 @@ backup*/
 
 # Configs locais de IDE/agente
 .claude/
+
+# --- docs/ é GERADO por scripts/sync-docs.sh a partir da raiz -----------------
+# O mkdocs publica docs/, mas a fonte única de conteúdo é a raiz do repo.
+# Não edite os arquivos abaixo: a edição é sobrescrita no próximo build.
+# As exceções (!) são páginas que existem só no site.
+docs/CHANGELOG.md
+docs/CONCEPTS.md
+docs/GLOSSARIO.md
+docs/SOURCES.md
+docs/TRUST.md
+docs/ai.txt
+docs/llms.txt
+docs/llms-full.txt
+docs/kb_index.json
+docs/artigos/
+docs/normas/
+docs/faq/*
+!docs/faq/index.md
+docs/servicos/*
+!docs/servicos/index.md
+docs/sobre-engeprag/*
+!docs/sobre-engeprag/index.md

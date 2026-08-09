@@ -28,6 +28,12 @@ jobs:
       - name: Install MkDocs
         run: pip install mkdocs-material
 
+      # docs/ é o docs_dir do mkdocs, mas a fonte de conteúdo é a raiz do repo.
+      # Os arquivos gerados não são versionados, então precisam ser criados aqui
+      # antes do build — sem este passo o site sai sem os artigos.
+      - name: Gerar docs/ a partir da raiz
+        run: ./scripts/sync-docs.sh
+
       - name: Build site
         run: mkdocs build
 

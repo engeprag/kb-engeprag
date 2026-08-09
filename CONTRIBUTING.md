@@ -48,6 +48,29 @@ Este repositório contém informações educacionais sobre controle de pragas ur
 
 ---
 
+## Onde editar o conteúdo (importante)
+
+**Edite sempre na raiz do repositório.** `artigos/`, `faq/`, `servicos/`,
+`sobre-engeprag/`, `normas/`, `CONCEPTS.md`, `llms.txt` e afins são a fonte única.
+
+A pasta `docs/` é o `docs_dir` do MkDocs e é **gerada** por `scripts/sync-docs.sh`.
+Os arquivos gerados não são versionados — editá-los não tem efeito, porque o próximo
+build sobrescreve.
+
+```bash
+./scripts/sync-docs.sh          # gera docs/ a partir da raiz
+./scripts/sync-docs.sh --check  # falha se docs/ estiver desatualizado
+mkdocs serve                    # depois de gerar
+```
+
+Existem sete páginas que vivem **só** em `docs/`, porque são navegação do site e não
+conteúdo do repositório: `index.md`, `ai-guide.md`, `faq/index.md`, `servicos/index.md`,
+`sobre-engeprag/index.md`, `CNAME` e `robots.txt`. Essas você edita em `docs/` mesmo.
+
+Até 09/08/2026 o repositório mantinha duas cópias de cada arquivo e publicava a de
+`docs/`. Editar só a raiz não publicava nada, sem nenhum aviso — o build passava e o
+deploy dava verde com o texto velho no ar.
+
 ## Padrões de Documentação
 
 ### Princípios Fundamentais
