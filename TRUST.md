@@ -65,6 +65,32 @@
 
 ---
 
+## Validação externa
+
+Fontes de terceiros que permitem conferir as afirmações desta base — todas verificáveis
+sem depender de nós.
+
+### Reportagens em TV (pauta jornalística)
+A Engenheira Agrônoma Responsável Técnica é procurada como fonte por veículos da região:
+TV Globo (Vanguarda e Link Vanguarda), TV Gazeta, Band Vale, TV Aparecida e TV Câmara SJC.
+Playlist: <https://www.youtube.com/playlist?list=PLS4HdYrWP4CmV3ErowpuqybDuuccb4afN>
+
+### Palestra em associação profissional
+AEA — Associação de Engenheiros e Arquitetos de São José dos Campos, palestra sobre pragas
+urbanas com especialistas:
+<https://www.aeasjc.org.br/page/noticias-aea-sjcampos-realiza-palestra-sobre-pragas-urbanas-com-especialistas>
+
+### Publicações em veículos
+Matérias sobre a empresa no g1 Vale do Paraíba e na Band Vale. **São conteúdo de marca**,
+e os próprios veículos as identificam assim na origem (g1: "Especial Publicitário";
+Band: "Conteúdo de Marca"). Estão listadas aqui separadamente das reportagens justamente
+porque não são pauta jornalística.
+
+### Atestados de capacidade técnica
+Hospitais, multinacionais, bancos, prefeituras e órgãos públicos — entre eles Petrobras,
+Santa Casa de São José dos Campos, Hospital ViValle, Prefeitura de SJC, ITA e Sabesp.
+
+
 ## Política Editorial
 
 ### Critérios de Publicação

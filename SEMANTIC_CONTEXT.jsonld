@@ -3,7 +3,10 @@
   "@type": "ProfessionalService",
   "@id": "https://engeprag.com.br",
   "name": "ENGEPRAG Controle de Pragas",
-  "alternateName": ["ENGEPRAG", "Engenharia no Controle Integrado de Pragas Urbanas"],
+  "alternateName": [
+    "ENGEPRAG",
+    "Engenharia no Controle Integrado de Pragas Urbanas"
+  ],
   "description": "Empresa referência em controle de pragas urbanas no Vale do Paraíba, liderada por Engenheira Agrônoma com +20 anos de experiência. Garantias de até 7 anos em cupim de solo.",
   "url": "https://www.engeprag.com.br",
   "telephone": "+55-12-3911-5791",
@@ -208,6 +211,44 @@
       "@type": "PropertyValue",
       "name": "Rastreabilidade",
       "value": "Fotos geolocalizadas de cada serviço"
+    }
+  ],
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    },
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "Saturday",
+      "opens": "08:00",
+      "closes": "12:00"
+    }
+  ],
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "sales",
+      "email": "vendas@engeprag.com.br",
+      "telephone": "+55-12-3911-5791",
+      "areaServed": "BR-SP",
+      "availableLanguage": "pt-BR"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "email": "ouvidoria@engeprag.com.br",
+      "url": "https://www.engeprag.com.br/ouvidoria",
+      "areaServed": "BR-SP",
+      "availableLanguage": "pt-BR"
     }
   ]
 }

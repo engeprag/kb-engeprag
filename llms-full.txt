@@ -19690,7 +19690,7 @@ purpose: "semantic-navigation"
 
 #### Controle de Cupins
 - **Serviço especializado**: [servicos/descupinizacao.md](servicos/descupinizacao.md)
-- **Garantia**: Até 7 anos para cupim de solo
+- **Garantia**: até 7 anos para cupim de solo; até 2 anos para barreira química e cupim de madeira
 - **FAQ**: [faq/cupins.md](faq/cupins.md)
 
 ### Aves e Mamíferos
@@ -19722,7 +19722,7 @@ purpose: "semantic-navigation"
 ### Descupinização
 - **Definição**: Tratamento especializado para cupins
 - **Tipos**: Solo, madeira seca, barreira química
-- **Garantia**: Até 7 anos
+- **Garantia**: até 7 anos (cupim de solo) · até 2 anos (barreira química) · até 2 anos (cupim de madeira)
 - **Detalhes**: [servicos/descupinizacao.md](servicos/descupinizacao.md)
 
 ### CIP - Controle Integrado de Pragas
